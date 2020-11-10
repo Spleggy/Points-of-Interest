@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="uploadToWeb"
+        android:defaultValue="false"
+        android:title="Upload POIs"
+        android:summary="Automatically upload your POI to the web" />
+</PreferenceScreen>

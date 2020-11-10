@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assessment</string>
+    <string name="createPOI">Create Point of Interest</string>
+    <string name="name">Name:</string>
+    <string name="type">Type:</string>
+    <string name="description">Description:</string>
+    <string name="createMarker">Create Marker</string>
+    <string name="poiTitle">Create Point of Interest</string>
+    <string name="checkText">Upload POI to web?</string>
+    <string name="prefs">Preferences</string>
+</resources>
